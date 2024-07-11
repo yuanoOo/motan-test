@@ -15,6 +15,7 @@
     </properties>
 
     <dependencies>
+
         <dependency>
             <groupId>com.weibo</groupId>
             <artifactId>motan-core</artifactId>
@@ -36,6 +37,7 @@
             <artifactId>spring-context</artifactId>
             <version>4.2.4.RELEASE</version>
         </dependency>
+
     </dependencies>
 
 </project>
